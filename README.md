@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dspyers
 - 👀 I’m interested in music, coding, and other things!
-- 🌱 I’m currently learning front end web development.
+- 🌱 I’m currently learning Front End Web Development.
 - 💞️ I’m looking to collaborate on building sites for people to enjoy!
 - 📫 How to reach me dmspyers@gmail.com
 
